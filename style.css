@@ -509,7 +509,7 @@ html::-webkit-scrollbar{
   @media screen and (max-width:766px){
     
     #home{
-      height:120vh;
+      height:100vh;
     }
 
     #about p{
@@ -547,7 +547,7 @@ html::-webkit-scrollbar{
    @media screen and (max-width:370px){
     .top-cards{
      height: 120vh;
-     margin-top:100px;
+     margin-top:150px;
     } 
    }
 
